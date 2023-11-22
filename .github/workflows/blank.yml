@@ -20,5 +20,3 @@ jobs:
 
       - name: Step 1
         run: primeiro step!
-
-        
