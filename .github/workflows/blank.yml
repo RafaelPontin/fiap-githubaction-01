@@ -17,6 +17,5 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run a one-line script
         run: echo Hello, world! 
-
-      - name: Step 1
-        run: primeiro step!
+      - name: step teste
+        run: echo teste
