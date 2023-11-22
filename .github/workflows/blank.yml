@@ -19,3 +19,6 @@ jobs:
         run: echo Hello, world! 
       - name: step teste
         run: echo teste
+
+      - name: step 2
+        run: echo teste 2
